@@ -109,7 +109,7 @@ Using the topics extracted via the topic modeling step, we used the library **[a
 First clone the project
 
 ```bash
-git clone git@github.com:berradiayounes/air-force-11.git
+git clone git@github.com:omariyassine/Hackathon-Eleven.git
 ```
 
 We're using the python native environment manager for our development workflow. 
